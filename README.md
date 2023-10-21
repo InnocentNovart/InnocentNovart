@@ -5,9 +5,9 @@
 ## 🚀 About Me
 I am a skilled and detail-oriented Data Scientist with 2 years experience in geospatial data engineering for enterprise-level applications, and 3 months experience as a data analyst for strategic planning and entrepreneurship.
 
-My current pursuit of an M.Sc in Data Science has developed in me a strong interest in the applications of data, machine learning and artificial intelligence to drive solutions for everyday problems.
+My current pursuit of an M.Sc in Data Science has developed in me a strong interest in the applications of data, machine learning, and artificial intelligence to drive solutions for everyday problems.
 
-Proficient in multiple programminglanguages, quantitative methodologies, software development tools, and database management systems to drive data-informed decisions.Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team.
+Proficient in multiple programming languages, quantitative methodologies, software development tools, and database management systems to drive data-informed decisions. Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team.
 
 
 ## 🛠 Skills
