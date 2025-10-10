@@ -3,31 +3,32 @@
 
 
 ## 🚀 About Me
-I am a skilled and detail-oriented Data Scientist with 2 years experience in geospatial data engineering for enterprise-level applications, and 3 months experience as a data analyst for strategic planning and entrepreneurship.
-
-My current pursuit of an M.Sc in Data Science has developed in me a strong interest in the applications of data, machine learning, and artificial intelligence to drive solutions for everyday problems.
-
-Proficient in multiple programming languages, quantitative methodologies, software development tools, and database management systems to drive data-informed decisions. Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team.
+A passionate Data enthusiast with experience in statistics, mathematical modeling, and ML/AI engineering. Currently, I am pursuing a research direction concerned with the impacts of fintech digital transformation in the financial space. Proficient in multiple programming languages, quantitative methodologies, software development tools, and database management systems to drive data-informed decisions. Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team.
 
 
 ## 🛠 Skills
-* **Programming:** Python, R, SQL, Machine Learning, Deep Learning.  
-* **Analytics:** Excel, Tableau, PowerBI, Statistical methods.
-* **Project Management:** Agile/Scrum Methodology.
+* **Programming:** Python, R, SQL.  
+* **Analytics:** Excel, Tableau, PowerBI.
 * **RPA:** UIPath.
+
+
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/innocent_novart)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itnovart/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/innocent_novart)
 [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/innocent.novart/vizzes)
 
 
 
 ## 📈 Summary of my journey
-🧠 B.Sc in Geomatics graduate with honors in 2020
+**1: PhD in Fintech:** Currently ongoing.
+(Sicentific research, Fintech, Quantitative finance, Financial Modeling)
 
-🛰️ Started out as a geospatial data engineer for 2 years
+**2: M.Sc in Data Science:** Graduated in 2024.
+(Statistics, Data Analytics, BI, RPA, ML/AI Engineering).
 
-👩‍💻 Now studying M.Sc Data Science. Graduating in 2024
+**3: B.Sc in Geomatics:** Graduated in 2020.
+(Statistics, Mathematical Modeling, GIS, Geospatial Modeling).
+
 
 ⚡️ Fun fact: I enjoy playing and making music in my freetime.
 
